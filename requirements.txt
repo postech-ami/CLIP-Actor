@@ -1,0 +1,12 @@
+wandb
+smplx
+sentence-transformers
+trimesh==3.9.33
+matplotlib==3.4.2
+einops==0.3.2
+scipy==1.5.2
+siren-pytorch==0.1.5
+usd-core==21.8
+torchgeometry==0.1.2
+git+https://github.com/openai/CLIP.git@04f4dc2ca1ed0acc9893bd1a3b526a7e02c4bb10
+git+https://github.com/NVIDIAGameWorks/kaolin@838d982cb0765de75d3c5de15083d80b849fa737
