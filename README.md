@@ -61,8 +61,7 @@ If you find our code or paper helps, please consider citing:
 
 ## Acknowledgement
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) 
-grant funded by the Korea government(MSIT) (No.2022-0-00290,Visual Intelligence for Space-Time Understanding and 
-Generation based on Multi-layered Visual Common Sense; and No.2021-0-02068, Artificial Intelligence Innovation Hub).
+grant funded by the Korea government(MSIT) (No.2022-00164860, Development of Human Digital Twin Technology Based on Dynamic Behavior Modeling and Human-Object-Space Interaction; and No.2021-0-02068, Artificial Intelligence Innovation Hub).
 
 The implementation of CLIP-Actor is largely inspired and fine-tuned from the seminal prior work, [Text2Mesh](https://github.com/threedle/text2mesh) (Michael _et al._).
 We thank the authors of Text2Mesh who made their code public. Also If you find these works helpful, please consider citing them as well.
