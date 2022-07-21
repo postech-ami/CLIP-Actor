@@ -48,14 +48,14 @@ The outputs will be the final .mp4 video, stylized .obj files, colored render vi
 
 ## Citation
 If you find our code or paper helps, please consider citing:
-```
+````BibTeX
 @inproceedings{youwang2022clipactor,
       title={CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes},
       author={Kim Youwang and Kim Ji-Yeon and Tae-Hyun Oh},
       year={2022},
       booktitle={ECCV}
 }
-```
+````
 
 ## Acknowledgement
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) 
