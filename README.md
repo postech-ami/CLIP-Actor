@@ -1,4 +1,4 @@
-# CLIP-Actor 
+# CLIP-Actor (ECCV 2022)
 ### [Project Page](https://clip-actor.github.io) | [Paper](https://arxiv.org/abs/2206.04382)
 This repository contains a pytorch implementation for the ECCV 2022 paper, [CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes](https://arxiv.org/abs/2206.04382). CLIP-Actor is a novel text-driven **motion recommendation** and **neural mesh stylization** system for human mesh animation.<br><br>
 
